@@ -1,4 +1,4 @@
-# # Kong Arthur Room Pricing Service
+# Kong Arthur Room Pricing Service
 
 This application is a Flask-based REST API that handles CRUD operations for room pricing information. The data is stored in an SQLite database (`datarooms.db`), which is connected to a Docker volume to ensure persistent data.
 
