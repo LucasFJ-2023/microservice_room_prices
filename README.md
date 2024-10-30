@@ -35,7 +35,7 @@ GET /rooms/suite/low
 }
 ```
 
-### PUT /rooms/<room_type/season
+### PUT /rooms/room_type/season
 
 Updates the dayly price for the specified room type and season.
 
