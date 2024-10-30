@@ -90,7 +90,7 @@ docker build -t kong_arthur_room_price .
 #### Run the Docker container with a volume binding:
 
 ```sh
-docker run -it -p 5002:5002 -v miniprojekt:/app/data kong_arthur_room_price
+docker run -it -p 5002:5000 -v miniprojekt:/app/data kong_arthur_room_price
 ```
 
 This command builds and runs the Flask application, making it accessible on port `5002`.
