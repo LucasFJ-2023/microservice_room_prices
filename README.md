@@ -11,8 +11,7 @@ The API offers the following features:
 
 ## Endpoints
 
-### GET /rooms/<room_type>/<season>/
-
+### GET /rooms/<room_type>/<season>:
 Returns the dayly price for the specified room type and season.
 
 #### Response Code:
